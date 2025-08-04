@@ -1,3 +1,7 @@
+ Proyecto Biogenesys
+Este repositorio contiene el análisis y desarrollo del proyecto de expansión de Biogenesys en Latinoamérica.
+
+
 Introducción
 Biogenesys es una empresa farmacéutica con el objetivo de expandir su presencia en Latinoamérica, priorizando aquellos países y regiones donde el impacto positivo en la salud pública pueda ser mayor. A través de un análisis exhaustivo de los datos de COVID-19 (casos, mortalidad, vacunación y variables socio-demográficas), se busca orientar la toma de decisiones estratégicas para la expansión de laboratorios y centros de vacunación.
  
